@@ -1,6 +1,7 @@
-# WeRateDogs-Data-Wrangling
+# Project Name: WeRateDogs-Data-Wrangling
 
-## Data Wrangling Report
+## Introduction
+WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. 
 
 ### 1.0.1 Project Description
 WeRateDogs is a twitter account that rates people dogs with humorous comment about the dog
